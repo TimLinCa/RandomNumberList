@@ -24,4 +24,4 @@ jobs:
       - name: Build
         run: dotnet build RandomSequence.sln --no-restore --configuration Release
       - name: Test
-        run: dotnet test RandomSequence/RandomSequence.Test/RandomSequence.Test.csproj --no-build --configuration Release --verbosity normal
+        run: dotnet test RandomSequence.Test/RandomSequence.Test.csproj --no-build --configuration Release --verbosity normal
