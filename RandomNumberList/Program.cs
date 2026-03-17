@@ -6,6 +6,8 @@ namespace RandomNumberList
     {
         private static void Main(string[] args)
         {
+            Console.WriteLine($" === Random Unique Sequence Generator ===");
+           
             var stopwatch = Stopwatch.StartNew();
 
             int[] numbers = SequenceGenerator.Generate(1, 10000);

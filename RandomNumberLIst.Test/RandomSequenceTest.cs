@@ -3,7 +3,7 @@ using RandomNumberList;
 namespace RandomNumberLIst.Test
 {
     [TestClass]
-    public class RandomNumberListTest
+    public class RandomSequenceTest
     {
 
         /// <summary>

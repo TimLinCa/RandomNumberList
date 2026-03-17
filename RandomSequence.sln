@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumberList", "RandomNumberList\RandomNumberList.csproj", "{AF7E4834-BA0B-47E0-BE7C-154B7FFAA3DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomSequence", "RandomNumberList\RandomSequence.csproj", "{AF7E4834-BA0B-47E0-BE7C-154B7FFAA3DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumberList.Test", "RandomNumberLIst.Test\RandomNumberList.Test.csproj", "{F4CE58CF-D7B8-4E83-B89B-707E798BE62D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomSequence.Test", "RandomNumberLIst.Test\RandomSequence.Test.csproj", "{F4CE58CF-D7B8-4E83-B89B-707E798BE62D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
