@@ -10,7 +10,7 @@ namespace RandomNumberList
            
             var stopwatch = Stopwatch.StartNew();
 
-            int[] numbers = SequenceGenerator.Generate(1, 10000);
+            int[] numbers = RandomNumberGenerator.Generate(1, 10000);
 
             stopwatch.Stop();
 

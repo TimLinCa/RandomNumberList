@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RandomNumberList
 {
-    public static class SequenceGenerator
+    public static class RandomNumberGenerator
     {
         /// <summary>
         /// Returns an array containing every integer from <paramref name="min"/> to
